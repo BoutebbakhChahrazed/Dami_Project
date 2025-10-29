@@ -56,11 +56,11 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ## 📊 Example Results
 
-| Model | Accuracy | F1-Score |
-|--------|-----------|----------|
-| Decision Tree | ~85% | ~0.83 |
-| KNN | ~88% | ~0.85 |
-| Naive Bayes | ~82% | ~0.80 |
+| Model | Accuracy | F1-Score | Precision | Recall
+|--------|-----------|----------|-----------|----------|
+| Decision Tree | 100% | 1 | 1 | 1 |
+| KNN | 100% | 1 | 1 | 1 |
+| Naive Bayes | 100% | 1 | 1 | 1 |
 
 > *Note: Results may vary depending on the dataset and random initialization.*
 
